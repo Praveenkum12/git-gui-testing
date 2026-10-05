@@ -1,1 +1,3 @@
-# Testing Git using through GUI
+# Testing Git using through GUI 
+
+- Commit 1
